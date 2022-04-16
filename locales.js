@@ -737,5 +737,72 @@ const locales = {
             "strike": "Barrato",
             "clear": "Formattazione ripristinata"
         }
-    }
+    },
+     "de": {
+         "cCode": "de",
+         "language": "Deutsch",
+         "text": {
+             "channelNameLabel": "Chat",
+             "scrollCheck": "Aktiviere die Animation für das automatische Scrollen",
+             "fileSent": "Datei(en) gesendet",
+             "attachmentTxt": "Anhänge",
+             "privateMessages": "PN",
+             "userId": "Benutzer ID"
+        },
+        "buttons": {
+             "clearLastMessages": "Letzte Nachrichten löschen",
+             "editToken": "Token bearbeiten",
+             "refreshChat": "Chat aktualisieren",
+             "changeLanguage": "Sprache ändern",
+             "send": "Senden",
+             "leave": "Server verlassen",
+             "invite": "Einladen"
+       },
+       "infos": {
+             "owner": "Besitzer",
+             "members": "Mitglieder",
+             "vChannels": "Sprachkanäle",
+             "tChannels": "Textkanäle",
+             "roles": "Rollen",
+             "channels": "Kanäle",
+             "emojis": "Emojis"
+       },
+       "headings": {
+             "lastMessages": "Letzte Nachrichten",
+             "guildName": "Information",
+             "autoScroll": "Automatisches Scrollen",
+       },
+       "errors": {
+             "error": "FEHLER",
+             "dm": "FEHLER : PN",
+             "emptyMsg": "FEHLER : LEERE NACHRICHT",
+             "missingPermissions": "FEHLER : FEHLENDE BERECHTIGUNGEN"
+       },
+       "token": {
+             "prompt": "Bitte gib deinen Discord-Bot Token hier ein",
+             "confirmation": "Bist Du dir sicher?",
+             "invalid": "Es wurde kein Token eingegeben oder der Token ist ungültig! Überprüfe deine Eingabe!"
+       },
+       "messageType": {
+            "serverJoin": "hat den Server betreten",
+            "pin": "hat eine Nachricht angeheftet",
+            "channelNews": "hat einen Remote-Nachrichtenkanal hinzugefügt",
+            "boost": "hat gerade den Server geboostet"
+       },
+       "fileType": {
+           "unknown": "Unbekannt",
+           "img": "Bild",
+           "doc": "Dokument",
+           "pdf": "Pdf",
+           "video": "Video",
+           "audio": "Audio"
+       },
+       "formatting": {
+           "bold": "Fett",
+           "emphasis": "Hervorheben",
+           "underline": "Unterstrichen",
+           "strike": "Durchstreichen",
+           "clear": "Formatierung löschen"
+       }
+     }
 };
