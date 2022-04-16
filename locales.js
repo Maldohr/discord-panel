@@ -779,14 +779,14 @@ const locales = {
              "missingPermissions": "FEHLER : FEHLENDE BERECHTIGUNGEN"
        },
        "token": {
-             "prompt": "Bitte gib deinen Discorf-Bot Token hier ein",
+             "prompt": "Bitte gib deinen Discord-Bot Token hier ein",
              "confirmation": "Bist Du dir sicher?",
              "invalid": "Es wurde kein Token eingegeben oder der Token ist ungültig! Überprüfe deine Eingabe!"
        },
        "messageType": {
             "serverJoin": "hat den Server betreten",
             "pin": "hat eine Nachricht angeheftet",
-            "channelNews": "hat einen Remote-NachrichtenKanal hinzugefügt",
+            "channelNews": "hat einen Remote-Nachrichtenkanal hinzugefügt",
             "boost": "hat gerade den Server geboostet"
        },
        "fileType": {
@@ -802,7 +802,7 @@ const locales = {
            "emphasis": "Hervorheben",
            "underline": "Unterstrichen",
            "strike": "Durchstreichen",
-           "clear": "Formattierung löschen"
+           "clear": "Formatierung löschen"
        }
      }
 };
